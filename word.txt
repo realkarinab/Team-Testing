@@ -1,2 +1,2 @@
 Try editing this file and pushing your changes (in a branch)!
-I edited this file. Hello.
+I edited this file. Hello. Hi.
